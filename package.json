@@ -1,0 +1,9 @@
+{
+  "name": "bitbucket-slack-notifier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bitbucket to Slack notifier that runs on Vercel (no server, no webhook admin rights needed)",
+  "scripts": {
+    "test": "node test/test.js"
+  }
+}
